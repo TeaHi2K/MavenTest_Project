@@ -34,4 +34,5 @@ public class Home extends BaseController {
     public String execute() {
         return SUCCESS;
     }
+    // this is a test case
 }
