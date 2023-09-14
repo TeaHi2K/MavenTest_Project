@@ -96,4 +96,6 @@ public class User {
             createdAt = new Date();
         updatedAt = new Date();
     }
+
+    // toi chi dang test thoi
 }
